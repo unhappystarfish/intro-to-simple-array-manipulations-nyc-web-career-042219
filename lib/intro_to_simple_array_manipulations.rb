@@ -6,4 +6,6 @@ def using_unshift (neighborhoods_in_northwest_brooklyn, new_neigbhorhood)
   neighborhoods_in_northwest_brooklyn.unshift (new_neigbhorhood)
 end
 
-def using_pop ()
+def using_pop (great_hits_of_the_nineties)
+  great_hits_of_the_nineties.pop
+end
